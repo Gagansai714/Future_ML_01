@@ -13,9 +13,9 @@
 
 ## 📌 Project Overview
 
-This project focuses on building an end-to-end **Sales & Demand Forecasting System** using historical business data[cite: 1]. 
+This project focuses on building an end-to-end **Sales & Demand Forecasting System** using historical business data. 
 
-Accurate demand prediction helps enterprises optimize inventory management, improve supply chain efficiency, and minimize operational costs. This project implements advanced **time-series feature engineering**—extracting calendar components, lag features, and rolling statistics—paired with an **XGBoost Regressor** to deliver precise sales forecasts[cite: 1].
+Accurate demand prediction helps enterprises optimize inventory management, improve supply chain efficiency, and minimize operational costs. This project implements advanced **time-series feature engineering**—extracting calendar components, lag features, and rolling statistics—paired with an **XGBoost Regressor** to deliver precise sales forecasts.
 
 ---
 
@@ -40,39 +40,39 @@ Accurate demand prediction helps enterprises optimize inventory management, impr
 
 ## 📌 Project Status
 
-✅ Synthetic Time-Series Dataset Generation Completed[cite: 1]
+✅ Synthetic Time-Series Dataset Generation Completed
 
-✅ Time-Based Feature Engineering Completed[cite: 1]
+✅ Time-Based Feature Engineering Completed
 
-✅ Train-Test Data Split Completed[cite: 1]
+✅ Train-Test Data Split Completed
 
-✅ XGBoost Regressor Model Trained[cite: 1]
+✅ XGBoost Regressor Model Trained
 
-✅ Model Evaluation (RMSE, MAE, R²) Completed[cite: 1]
+✅ Model Evaluation (RMSE, MAE, R²) Completed
 
-✅ Visualization & Chart Outputs Saved[cite: 1]
+✅ Visualization & Chart Outputs Saved
 
-✅ GitHub Repository Setup Completed[cite: 1]
+✅ GitHub Repository Setup Completed
 
 ---
 
 ## 🎯 Project Objectives
 
-* Build a machine learning regression pipeline for time-series forecasting[cite: 1].
-* Engineer lag variables ($t-1$, $t-7$, $t-30$) and rolling window statistics[cite: 1].
-* Evaluate predictive performance using standard metrics ($RMSE$, $MAE$, $R^2$)[cite: 1].
-* Generate business-ready visualization plots comparing actual vs. forecasted sales[cite: 1].
-* Save trained model artifacts for future deployment[cite: 1].
+* Build a machine learning regression pipeline for time-series forecasting.
+* Engineer lag variables ($t-1$, $t-7$, $t-30$) and rolling window statistics.
+* Evaluate predictive performance using standard metrics ($RMSE$, $MAE$, $R^2$).
+* Generate business-ready visualization plots comparing actual vs. forecasted sales.
+* Save trained model artifacts for future deployment.
 
 ---
 
 ## ✨ Key Features
 
-* 🤖 **XGBoost Regression Model**: Captures complex non-linear trends and seasonal patterns[cite: 1].
-* ⏱️ **Time-Based Feature Extraction**: Automatically derives day, month, year, day of week, and weekend flags[cite: 1].
-* 📉 **Lag & Rolling Window Features**: Captures historic sales momentum and trend smoothing[cite: 1].
-* 📊 **Business Visualizations**: Generates clean plots comparing actual vs. predicted sales[cite: 1].
-* 💾 **Model Persistence**: Saves trained model as a `.pkl` file for modular inference[cite: 1].
+* 🤖 **XGBoost Regression Model**: Captures complex non-linear trends and seasonal patterns.
+* ⏱️ **Time-Based Feature Extraction**: Automatically derives day, month, year, day of week, and weekend flags.
+* 📉 **Lag & Rolling Window Features**: Captures historic sales momentum and trend smoothing.
+* 📊 **Business Visualizations**: Generates clean plots comparing actual vs. predicted sales.
+* 💾 **Model Persistence**: Saves trained model as a `.pkl` file for modular inference.
 
 ---
 
@@ -80,12 +80,12 @@ Accurate demand prediction helps enterprises optimize inventory management, impr
 
 | Tool / Library | Purpose |
 | :--- | :--- |
-| **Python** | Core Programming Language[cite: 1] |
-| **Pandas & NumPy** | Data Manipulation & Feature Engineering[cite: 1] |
-| **XGBoost** | Predictive ML Model[cite: 1] |
-| **Scikit-Learn** | Model Metrics & Evaluation[cite: 1] |
-| **Matplotlib & Seaborn** | Forecast Data Visualizations[cite: 1] |
-| **Joblib** | Model Serialization (`.pkl`)[cite: 1] |
+| **Python** | Core Programming Language |
+| **Pandas & NumPy** | Data Manipulation & Feature Engineering |
+| **XGBoost** | Predictive ML Model |
+| **Scikit-Learn** | Model Metrics & Evaluation |
+| **Matplotlib & Seaborn** | Forecast Data Visualizations |
+| **Joblib** | Model Serialization (`.pkl`) |
 
 ---
 
@@ -136,27 +136,13 @@ Forecast Visualizations & Artifact Export
 
 | Category | Information |
 | --- | --- |
-| **Project** | Sales & Demand Forecasting System
-
- |
-| **Internship** | Future Interns – Machine Learning Track
-
- |
-| **Task Code** | FUTURE_ML_01
-
- |
-| **Domain** | Machine Learning / Time-Series Analytics
-
- |
-| **Model** | XGBoost Regressor
-
- |
-| **License** | MIT
-
- |
-| **Status** | Completed
-
- |
+| **Project** | Sales & Demand Forecasting System |
+| **Internship** | Future Interns – Machine Learning Track |
+| **Task Code** | FUTURE_ML_01 |
+| **Domain** | Machine Learning / Time-Series Analytics |
+| **Model** | XGBoost Regressor |
+| **License** | MIT |
+| **Status** | Completed |
 
 ---
 
