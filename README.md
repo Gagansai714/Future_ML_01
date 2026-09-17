@@ -1,6 +1,3 @@
-Here is the single, complete `README.md` file containing every section, workflow, repo info, author details, and footer in one single block:
-
-```markdown
 # 📈 Sales & Demand Forecasting System
 
 > **Future Interns – Machine Learning Internship | Task 1**[cite: 1]  
