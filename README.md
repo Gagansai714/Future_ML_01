@@ -1,7 +1,7 @@
 # 📈 Sales & Demand Forecasting System
 
-> **Future Interns – Machine Learning Internship | Task 1**[cite: 1]  
-> 🚀 Building a machine learning pipeline to forecast future product demand and sales using time-series feature engineering and XGBoost[cite: 1].
+> **Future Interns – Machine Learning Internship | Task 1**
+> 🚀 Building a machine learning pipeline to forecast future product demand and sales using time-series feature engineering and XGBoost.
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Python-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
